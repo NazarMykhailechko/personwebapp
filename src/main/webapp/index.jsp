@@ -1,16 +1,12 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Nazar
-  Date: 21.12.2018
-  Time: 20:43
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page import="java.util.Date" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>MyPersonWebApp</title>
   </head>
   <body>
   <h1>Hello, Nazar!</h1>
+  <% Date date = new Date(); %>
+  <h3>Today is: <%=date%></h3>
   </body>
 </html>
