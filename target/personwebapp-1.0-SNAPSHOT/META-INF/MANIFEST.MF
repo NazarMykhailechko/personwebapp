@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
+<<<<<<< HEAD
 Built-By: mykhailechko
 Build-Jdk: 12
+=======
+Built-By: WIN72
+Build-Jdk: 11.0.6
+>>>>>>> cd8765593f732b3183ffc3b865445a716546e72b
 
