@@ -10,6 +10,7 @@
 <h3>Today is: <%=date%></h3>
 <h5>
 <ul>
+  <li>Admin</li> <%--  me!!! --%>
   <li>User1</li>
   <li>User2</li>
   <li>User3</li>
